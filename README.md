@@ -9,3 +9,8 @@ smbpasswd -a ane
 smbpasswd -e ane
 smbpasswd ane - Altera a senha do usuário
 ```
+
+**Para ver os grupos disponiveis:**
+```
+groups
+```
