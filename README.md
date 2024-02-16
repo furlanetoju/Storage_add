@@ -10,7 +10,13 @@ smbpasswd -e ane
 smbpasswd ane - Altera a senha do usuário
 ```
 
+**Caso queira permitir o acesso ao shell novamente**
+```
+usermod --shell /bin/bash ane
+```
+
 **Para ver os grupos disponiveis:**
 ```
 groups
 ```
+
