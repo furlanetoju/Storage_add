@@ -20,3 +20,7 @@ usermod --shell /bin/bash ane
 groups
 ```
 
+**Ou**
+```
+ less /etc/group
+```
